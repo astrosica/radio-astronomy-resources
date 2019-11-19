@@ -1,2 +1,2 @@
 # Radio Astronomy Resources
-A collection of resources for radio astronomy.
+A collection of resources for radio astronomy and interferometry.
