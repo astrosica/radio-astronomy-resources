@@ -9,4 +9,5 @@ A collection of resources for radio astronomy and interferometry.
 * NRAO Imaging Workshop (2014) lectures
 
 ## Radio Astronomy
+* Tools of Radio Astronomy (2009); Wilson, Rohlfs, Hüttemeister
 * CSIRO Radio Astronomy School lectures (2017)
